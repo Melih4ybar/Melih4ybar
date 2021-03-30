@@ -12,4 +12,4 @@
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melih4ybar&layout=compact)](https://github.com/Melih4ybar/github-readme-stats)
  
- ![melih4ybar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melih4ybar&show_icons=true&theme=Gradient)
+ ![melih4ybar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melih4ybar&show_icons=true&theme=gradient)
