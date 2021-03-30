@@ -7,8 +7,8 @@
 
 <a href="https://www.linkedin.com/in/melih-aybar-1491a41a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/melih-aybar-1491a41a4/" height="30" width="40" /></a>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg" alt="unity" width="30" height="30"/>
 
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Melih4ybar&layout=compact)](https://github.com/Melih4ybar/github-readme-stats)
