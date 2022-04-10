@@ -3,7 +3,7 @@
 
   ![Profile views](https://gpvc.arturio.dev/Melih4ybar) 
 
-- 🌱 I’m currently learning **C#, Dart&Flutter**
+- 🌱 I’m currently learning **C#, PHP**
 
 <a href="https://www.linkedin.com/in/melih-aybar-1491a41a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/melih-aybar-1491a41a4/" height="30" width="40" /></a>
 
